@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.AssemblyInfo.cs
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.sourcelink.json
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\bin\Debug\net6.0\Ember.exe
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\bin\Debug\net6.0\Ember.deps.json
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\bin\Debug\net6.0\Ember.runtimeconfig.json
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\bin\Debug\net6.0\Ember.dll
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\bin\Debug\net6.0\Ember.pdb
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.dll
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\refint\Ember.dll
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.pdb
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\Ember.genruntimeconfig.cache
+C:\xampp\htdocs\suli\C_sharp\Ember\Ember\obj\Debug\net6.0\ref\Ember.dll
