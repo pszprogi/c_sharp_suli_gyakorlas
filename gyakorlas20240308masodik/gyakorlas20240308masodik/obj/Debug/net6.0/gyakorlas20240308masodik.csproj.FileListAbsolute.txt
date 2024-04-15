@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\bin\Debug\net6.0\gyakorlas20240308masodik.exe
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\bin\Debug\net6.0\gyakorlas20240308masodik.deps.json
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\bin\Debug\net6.0\gyakorlas20240308masodik.runtimeconfig.json
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\bin\Debug\net6.0\gyakorlas20240308masodik.dll
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\bin\Debug\net6.0\gyakorlas20240308masodik.pdb
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.AssemblyInfo.cs
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.sourcelink.json
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.dll
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\refint\gyakorlas20240308masodik.dll
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.pdb
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\gyakorlas20240308masodik.genruntimeconfig.cache
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308masodik\gyakorlas20240308masodik\obj\Debug\net6.0\ref\gyakorlas20240308masodik.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "suli_gyakorlas20240322/1.0.0": {
+        "runtime": {
+          "suli_gyakorlas20240322.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "suli_gyakorlas20240322/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

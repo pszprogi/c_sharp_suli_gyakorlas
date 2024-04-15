@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\bin\Debug\net6.0\gyakorlas20240308.exe
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\bin\Debug\net6.0\gyakorlas20240308.deps.json
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\bin\Debug\net6.0\gyakorlas20240308.runtimeconfig.json
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\bin\Debug\net6.0\gyakorlas20240308.dll
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\bin\Debug\net6.0\gyakorlas20240308.pdb
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.AssemblyInfo.cs
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.sourcelink.json
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.dll
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\refint\gyakorlas20240308.dll
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.pdb
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\gyakorlas20240308.genruntimeconfig.cache
+C:\xampp\htdocs\suli\C_sharp\gyakorlas20240308\gyakorlas20240308\obj\Debug\net6.0\ref\gyakorlas20240308.dll

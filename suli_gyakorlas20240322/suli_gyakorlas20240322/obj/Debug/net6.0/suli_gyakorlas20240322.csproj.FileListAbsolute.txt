@@ -1,0 +1,15 @@
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\bin\Debug\net6.0\suli_gyakorlas20240322.exe
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\bin\Debug\net6.0\suli_gyakorlas20240322.deps.json
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\bin\Debug\net6.0\suli_gyakorlas20240322.runtimeconfig.json
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\bin\Debug\net6.0\suli_gyakorlas20240322.dll
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\bin\Debug\net6.0\suli_gyakorlas20240322.pdb
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.AssemblyInfoInputs.cache
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.AssemblyInfo.cs
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.sourcelink.json
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.dll
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\refint\suli_gyakorlas20240322.dll
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.pdb
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\suli_gyakorlas20240322.genruntimeconfig.cache
+C:\xampp\htdocs\suli\C_sharp\suli_gyakorlas20240322\suli_gyakorlas20240322\obj\Debug\net6.0\ref\suli_gyakorlas20240322.dll

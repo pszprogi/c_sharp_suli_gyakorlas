@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\suli\\C_sharp\\gyakorlas20240308\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29DD7374-5C79-4562-BA44-CE6939F565B3}|gyakorlas20240308\\gyakorlas20240308.csproj|c:\\xampp\\htdocs\\suli\\c_sharp\\gyakorlas20240308\\gyakorlas20240308\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DD7374-5C79-4562-BA44-CE6939F565B3}|gyakorlas20240308\\gyakorlas20240308.csproj|solutionrelative:gyakorlas20240308\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DD7374-5C79-4562-BA44-CE6939F565B3}|gyakorlas20240308\\gyakorlas20240308.csproj|c:\\xampp\\htdocs\\suli\\c_sharp\\gyakorlas20240308\\gyakorlas20240308\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DD7374-5C79-4562-BA44-CE6939F565B3}|gyakorlas20240308\\gyakorlas20240308.csproj|solutionrelative:gyakorlas20240308\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suli\\C_sharp\\gyakorlas20240308\\gyakorlas20240308\\Car.cs",
+              "RelativeDocumentMoniker": "gyakorlas20240308\\Car.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suli\\C_sharp\\gyakorlas20240308\\gyakorlas20240308\\Car.cs",
+              "RelativeToolTip": "gyakorlas20240308\\Car.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:20:01.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\suli\\C_sharp\\gyakorlas20240308\\gyakorlas20240308\\Program.cs",
+              "RelativeDocumentMoniker": "gyakorlas20240308\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\suli\\C_sharp\\gyakorlas20240308\\gyakorlas20240308\\Program.cs",
+              "RelativeToolTip": "gyakorlas20240308\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:19:04.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
