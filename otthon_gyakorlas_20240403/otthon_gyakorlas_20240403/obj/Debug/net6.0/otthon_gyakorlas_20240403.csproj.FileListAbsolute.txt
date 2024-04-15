@@ -1,0 +1,14 @@
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\bin\Debug\net6.0\otthon_gyakorlas_20240403.exe
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\bin\Debug\net6.0\otthon_gyakorlas_20240403.deps.json
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\bin\Debug\net6.0\otthon_gyakorlas_20240403.runtimeconfig.json
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\bin\Debug\net6.0\otthon_gyakorlas_20240403.dll
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\bin\Debug\net6.0\otthon_gyakorlas_20240403.pdb
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\otthon_gyakorlas_20240403.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\otthon_gyakorlas_20240403.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\otthon_gyakorlas_20240403.AssemblyInfo.cs
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\otthon_gyakorlas_20240403.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\otthon_gyakorlas_20240403.dll
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\refint\otthon_gyakorlas_20240403.dll
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\otthon_gyakorlas_20240403.pdb
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\otthon_gyakorlas_20240403.genruntimeconfig.cache
+D:\Programozás\C_sharp\otthon_gyakorlas_20240403\otthon_gyakorlas_20240403\obj\Debug\net6.0\ref\otthon_gyakorlas_20240403.dll

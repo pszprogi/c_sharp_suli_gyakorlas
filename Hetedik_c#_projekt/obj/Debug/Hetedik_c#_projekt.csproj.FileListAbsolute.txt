@@ -1,0 +1,7 @@
+D:\Programozás\C#\Hetedik_c#_projekt\bin\Debug\Hetedik_c#_projekt.exe.config
+D:\Programozás\C#\Hetedik_c#_projekt\bin\Debug\Hetedik_c#_projekt.exe
+D:\Programozás\C#\Hetedik_c#_projekt\bin\Debug\Hetedik_c#_projekt.pdb
+D:\Programozás\C#\Hetedik_c#_projekt\obj\Debug\Hetedik_c#_projekt.csproj.AssemblyReference.cache
+D:\Programozás\C#\Hetedik_c#_projekt\obj\Debug\Hetedik_c#_projekt.csproj.CoreCompileInputs.cache
+D:\Programozás\C#\Hetedik_c#_projekt\obj\Debug\Hetedik_c#_projekt.exe
+D:\Programozás\C#\Hetedik_c#_projekt\obj\Debug\Hetedik_c#_projekt.pdb

@@ -1,0 +1,14 @@
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\c#8_gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\c#8_gyakorlas.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\c#8_gyakorlas.AssemblyInfo.cs
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\c#8_gyakorlas.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\bin\Debug\net8.0\c#8_gyakorlas.exe
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\bin\Debug\net8.0\c#8_gyakorlas.deps.json
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\bin\Debug\net8.0\c#8_gyakorlas.runtimeconfig.json
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\bin\Debug\net8.0\c#8_gyakorlas.dll
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\bin\Debug\net8.0\c#8_gyakorlas.pdb
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\c#8_gyakorlas.dll
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\refint\c#8_gyakorlas.dll
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\c#8_gyakorlas.pdb
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\c#8_gyakorlas.genruntimeconfig.cache
+D:\Programozás\C_sharp\c#8_gyakorlas\c#8_gyakorlas\obj\Debug\net8.0\ref\c#8_gyakorlas.dll

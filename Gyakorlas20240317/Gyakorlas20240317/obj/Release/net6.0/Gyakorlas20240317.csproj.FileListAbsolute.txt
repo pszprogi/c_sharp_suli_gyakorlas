@@ -1,0 +1,14 @@
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\bin\Release\net6.0\Gyakorlas20240317.exe
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\bin\Release\net6.0\Gyakorlas20240317.deps.json
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\bin\Release\net6.0\Gyakorlas20240317.runtimeconfig.json
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\bin\Release\net6.0\Gyakorlas20240317.dll
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\bin\Release\net6.0\Gyakorlas20240317.pdb
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\Gyakorlas20240317.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\Gyakorlas20240317.AssemblyInfoInputs.cache
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\Gyakorlas20240317.AssemblyInfo.cs
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\Gyakorlas20240317.csproj.CoreCompileInputs.cache
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\Gyakorlas20240317.dll
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\refint\Gyakorlas20240317.dll
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\Gyakorlas20240317.pdb
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\Gyakorlas20240317.genruntimeconfig.cache
+D:\Programozás\C#\Gyakorlas20240317\Gyakorlas20240317\obj\Release\net6.0\ref\Gyakorlas20240317.dll

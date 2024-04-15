@@ -1,0 +1,7 @@
+D:\Programozás\C#\Masodik_C#_rojekt\bin\Debug\Masodik_C#_rojekt.exe.config
+D:\Programozás\C#\Masodik_C#_rojekt\bin\Debug\Masodik_C#_rojekt.exe
+D:\Programozás\C#\Masodik_C#_rojekt\bin\Debug\Masodik_C#_rojekt.pdb
+D:\Programozás\C#\Masodik_C#_rojekt\obj\Debug\Masodik_C#_rojekt.csproj.AssemblyReference.cache
+D:\Programozás\C#\Masodik_C#_rojekt\obj\Debug\Masodik_C#_rojekt.csproj.CoreCompileInputs.cache
+D:\Programozás\C#\Masodik_C#_rojekt\obj\Debug\Masodik_C#_rojekt.exe
+D:\Programozás\C#\Masodik_C#_rojekt\obj\Debug\Masodik_C#_rojekt.pdb

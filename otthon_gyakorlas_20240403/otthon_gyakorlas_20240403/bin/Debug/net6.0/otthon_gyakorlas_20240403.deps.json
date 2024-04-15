@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "otthon_gyakorlas_20240403/1.0.0": {
+        "runtime": {
+          "otthon_gyakorlas_20240403.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "otthon_gyakorlas_20240403/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

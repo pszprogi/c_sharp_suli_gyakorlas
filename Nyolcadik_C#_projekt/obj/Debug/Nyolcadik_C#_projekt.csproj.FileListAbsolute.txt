@@ -1,0 +1,7 @@
+D:\Programozás\C#\Nyolcadik_C#_projekt\bin\Debug\Nyolcadik_C#_projekt.exe.config
+D:\Programozás\C#\Nyolcadik_C#_projekt\bin\Debug\Nyolcadik_C#_projekt.exe
+D:\Programozás\C#\Nyolcadik_C#_projekt\bin\Debug\Nyolcadik_C#_projekt.pdb
+D:\Programozás\C#\Nyolcadik_C#_projekt\obj\Debug\Nyolcadik_C#_projekt.csproj.AssemblyReference.cache
+D:\Programozás\C#\Nyolcadik_C#_projekt\obj\Debug\Nyolcadik_C#_projekt.csproj.CoreCompileInputs.cache
+D:\Programozás\C#\Nyolcadik_C#_projekt\obj\Debug\Nyolcadik_C#_projekt.exe
+D:\Programozás\C#\Nyolcadik_C#_projekt\obj\Debug\Nyolcadik_C#_projekt.pdb
