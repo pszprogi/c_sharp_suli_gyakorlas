@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotenetCore1.props" />
+</Project>
