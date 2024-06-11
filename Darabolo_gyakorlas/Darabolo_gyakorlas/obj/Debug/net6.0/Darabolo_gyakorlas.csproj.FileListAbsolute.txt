@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\bin\Debug\net6.0\Darabolo_gyakorlas.exe
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\bin\Debug\net6.0\Darabolo_gyakorlas.deps.json
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\bin\Debug\net6.0\Darabolo_gyakorlas.runtimeconfig.json
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\bin\Debug\net6.0\Darabolo_gyakorlas.dll
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\bin\Debug\net6.0\Darabolo_gyakorlas.pdb
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.AssemblyInfo.cs
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.sourcelink.json
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.dll
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\refint\Darabolo_gyakorlas.dll
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.pdb
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.genruntimeconfig.cache
+C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\ref\Darabolo_gyakorlas.dll
