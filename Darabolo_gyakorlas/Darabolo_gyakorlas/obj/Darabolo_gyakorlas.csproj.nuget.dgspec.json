@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj": {}
+    "D:\\Programozás\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj": {
+    "D:\\Programozás\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj",
+        "projectUniqueName": "D:\\Programozás\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj",
         "projectName": "Darabolo_gyakorlas",
-        "projectPath": "C:\\xampp\\htdocs\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj",
-        "packagesPath": "C:\\Users\\Szabolcs\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\obj\\",
+        "projectPath": "D:\\Programozás\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\Darabolo_gyakorlas.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "D:\\Programozás\\C_sharp\\Darabolo_gyakorlas\\Darabolo_gyakorlas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Szabolcs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

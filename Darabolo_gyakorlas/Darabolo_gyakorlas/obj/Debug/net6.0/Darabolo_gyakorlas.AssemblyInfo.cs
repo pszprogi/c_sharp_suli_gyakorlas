@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Darabolo_gyakorlas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dab0c5e03f5c383e61db2359e56e8e7dea8aaaad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b204bc563f080feb3f27015a94f8087f1ad4f1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Darabolo_gyakorlas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Darabolo_gyakorlas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
