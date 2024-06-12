@@ -1,0 +1,15 @@
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.exe
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.deps.json
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.runtimeconfig.json
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.dll
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\bin\Debug\net6.0\KorKerTer.pdb
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.AssemblyInfo.cs
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.sourcelink.json
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.dll
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\refint\KorKerTer.dll
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.pdb
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\KorKerTer.genruntimeconfig.cache
+D:\Programozás\C_sharp\KorKerTer\KorKerTer\obj\Debug\net6.0\ref\KorKerTer.dll

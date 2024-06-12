@@ -1,0 +1,15 @@
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.AssemblyInfo.cs
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.sourcelink.json
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\bin\Debug\net6.0\Matekozas_2.exe
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\bin\Debug\net6.0\Matekozas_2.deps.json
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\bin\Debug\net6.0\Matekozas_2.runtimeconfig.json
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\bin\Debug\net6.0\Matekozas_2.dll
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\bin\Debug\net6.0\Matekozas_2.pdb
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.dll
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\refint\Matekozas_2.dll
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.pdb
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\Matekozas_2.genruntimeconfig.cache
+D:\Programozás\C_sharp\Matekozas_2\Matekozas_2\obj\Debug\net6.0\ref\Matekozas_2.dll
