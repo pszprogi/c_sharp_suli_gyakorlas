@@ -28,3 +28,7 @@ D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\r
 D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.pdb
 D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.genruntimeconfig.cache
 D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\ref\Darabolo_gyakorlas.dll
+D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\bin\Debug\net6.0\DaraboloOsztalyLib.dll
+D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\bin\Debug\net6.0\DaraboloOsztalyLib.pdb
+D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.csproj.AssemblyReference.cache
+D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\obj\Debug\net6.0\Darabolo_gyakorlas.csproj.CopyComplete

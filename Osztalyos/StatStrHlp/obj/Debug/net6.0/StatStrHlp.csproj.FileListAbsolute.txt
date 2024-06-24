@@ -1,0 +1,15 @@
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.exe
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.deps.json
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.runtimeconfig.json
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.dll
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\bin\Debug\net6.0\StatStrHlp.pdb
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.AssemblyInfo.cs
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.sourcelink.json
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.dll
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\refint\StatStrHlp.dll
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.pdb
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\StatStrHlp.genruntimeconfig.cache
+D:\Programozás\C_sharp\Osztalyos\StatStrHlp\obj\Debug\net6.0\ref\StatStrHlp.dll

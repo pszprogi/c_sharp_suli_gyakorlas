@@ -1,0 +1,12 @@
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.deps.json
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.dll
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\bin\Debug\net6.0\DaraboloOsztalyLib.pdb
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.AssemblyInfo.cs
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.sourcelink.json
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.dll
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\refint\DaraboloOsztalyLib.dll
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\DaraboloOsztalyLib.pdb
+D:\Programozás\C_sharp\Darabolo_gyakorlas\DaraboloOsztalyLib\obj\Debug\net6.0\ref\DaraboloOsztalyLib.dll

@@ -1,0 +1,15 @@
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.AssemblyInfo.cs
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.sourcelink.json
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\bin\Debug\net6.0\AutoNyilvantarto.exe
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\bin\Debug\net6.0\AutoNyilvantarto.deps.json
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\bin\Debug\net6.0\AutoNyilvantarto.runtimeconfig.json
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\bin\Debug\net6.0\AutoNyilvantarto.dll
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\bin\Debug\net6.0\AutoNyilvantarto.pdb
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.dll
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\refint\AutoNyilvantarto.dll
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.pdb
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\AutoNyilvantarto.genruntimeconfig.cache
+D:\Programozás\C_sharp\Osztalyos\AutoNyilvantarto\obj\Debug\net6.0\ref\AutoNyilvantarto.dll

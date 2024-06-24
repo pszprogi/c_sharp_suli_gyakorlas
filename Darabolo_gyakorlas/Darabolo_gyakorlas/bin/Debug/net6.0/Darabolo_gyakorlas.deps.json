@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Darabolo_gyakorlas/1.0.0": {
+        "dependencies": {
+          "DaraboloOsztalyLib": "1.0.0"
+        },
         "runtime": {
           "Darabolo_gyakorlas.dll": {}
+        }
+      },
+      "DaraboloOsztalyLib/1.0.0": {
+        "runtime": {
+          "DaraboloOsztalyLib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Darabolo_gyakorlas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DaraboloOsztalyLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
