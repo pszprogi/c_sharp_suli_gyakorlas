@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Darabolo_gyakorlas
-build_property.ProjectDir = D:\Programozás\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\
+build_property.ProjectDir = C:\xampp\htdocs\C_sharp\Darabolo_gyakorlas\Darabolo_gyakorlas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

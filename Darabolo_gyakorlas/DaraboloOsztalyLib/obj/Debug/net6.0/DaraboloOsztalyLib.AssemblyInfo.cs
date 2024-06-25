@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaraboloOsztalyLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+593e4703a2c3eceff2b21a2d431f99faa89001b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2add6b8e98c35a479444c6c7c983ba7c4b1b13eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaraboloOsztalyLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaraboloOsztalyLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
