@@ -45,7 +45,8 @@ namespace Leszarmazas
 
         public void Haladas(int tav)
         {
-            throw new NotImplementedException();
+            Y += tav;
+            Console.WriteLine($"Hol járok? {Y}");
         }
     }
 
