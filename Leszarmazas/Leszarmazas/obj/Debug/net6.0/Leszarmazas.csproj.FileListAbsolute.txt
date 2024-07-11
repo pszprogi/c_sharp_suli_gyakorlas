@@ -1,0 +1,15 @@
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.exe
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.deps.json
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.runtimeconfig.json
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.dll
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\bin\Debug\net6.0\Leszarmazas.pdb
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.AssemblyInfoInputs.cache
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.AssemblyInfo.cs
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.csproj.CoreCompileInputs.cache
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.sourcelink.json
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.dll
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\refint\Leszarmazas.dll
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.pdb
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\Leszarmazas.genruntimeconfig.cache
+D:\Programozás\C_sharp\Leszarmazas\Leszarmazas\obj\Debug\net6.0\ref\Leszarmazas.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leszarmazas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be11522c7e0adbfd0e546ebb76a4742506524a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leszarmazas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leszarmazas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
