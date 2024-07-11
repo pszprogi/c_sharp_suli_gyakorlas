@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.AssemblyInfo.cs
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.sourcelink.json
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\bin\Debug\net6.0\Gyakorlas_2024_07_11.exe
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\bin\Debug\net6.0\Gyakorlas_2024_07_11.deps.json
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\bin\Debug\net6.0\Gyakorlas_2024_07_11.runtimeconfig.json
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\bin\Debug\net6.0\Gyakorlas_2024_07_11.dll
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\bin\Debug\net6.0\Gyakorlas_2024_07_11.pdb
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.dll
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\refint\Gyakorlas_2024_07_11.dll
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.pdb
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\Gyakorlas_2024_07_11.genruntimeconfig.cache
+C:\xampp\htdocs\C_sharp\Gyakorlas_2024_07_11\Gyakorlas_2024_07_11\obj\Debug\net6.0\ref\Gyakorlas_2024_07_11.dll
