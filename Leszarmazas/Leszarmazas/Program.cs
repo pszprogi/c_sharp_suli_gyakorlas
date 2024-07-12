@@ -26,6 +26,7 @@ Console.WriteLine(t1);
 t1.Eletkor = 33;
 t1.Olvas();
 t1.Mozog(30);
+t1.Haladas(20);
 
 
 Auto a = new Auto();
