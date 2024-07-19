@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("elso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+172b687ac48edfaa45cd1ca76675f4dceb8c87c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("elso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("elso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

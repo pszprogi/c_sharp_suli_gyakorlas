@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\szabolcs\\desktop\\consoleapp2\\consoleapp2\\naplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\naplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\consoleapp2\\dolgozo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\dolgozo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\consoleapp2\\tanar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\tanar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\consoleapp2\\diak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\diak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\consoleapp2\\ijelszo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\ijelszo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\consoleapp2\\segito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEA433-CF5D-45E8-9308-BC2E06BBBA0C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\segito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Segito.cs",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Segito.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Segito.cs",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Segito.cs",
+              "RelativeToolTip": "ConsoleApp2\\Segito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:55.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJelszo.cs",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\IJelszo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\IJelszo.cs",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\IJelszo.cs",
+              "RelativeToolTip": "ConsoleApp2\\IJelszo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:56.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dolgozo.cs",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Dolgozo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Dolgozo.cs",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Dolgozo.cs",
+              "RelativeToolTip": "ConsoleApp2\\Dolgozo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:56.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tanar.cs",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Tanar.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Tanar.cs",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Tanar.cs",
+              "RelativeToolTip": "ConsoleApp2\\Tanar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:56.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Diak.cs",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Diak.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Diak.cs",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Diak.cs",
+              "RelativeToolTip": "ConsoleApp2\\Diak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:56.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Naplo.cs",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Naplo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Naplo.cs",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Naplo.cs",
+              "RelativeToolTip": "ConsoleApp2\\Naplo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Szabolcs\\Desktop\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:52:56.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
